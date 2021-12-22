@@ -1,3 +1,3 @@
 #readme
 
-jusr say someting
+jusr say someting!
